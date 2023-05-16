@@ -242,7 +242,7 @@ Add the following PHP code to the file:
 ```php
 <?php
 phpinfo();
-```
+
 
 Save and close the file. Refresh the page to see the PHP info.
 ```
